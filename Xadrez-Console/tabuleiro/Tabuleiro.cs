@@ -1,5 +1,4 @@
-﻿
-namespace tabuleiro {
+﻿namespace tabuleiro {
     class Tabuleiro {
 
         public int linhas { get; set; }

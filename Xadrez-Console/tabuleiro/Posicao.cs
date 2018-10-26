@@ -5,8 +5,8 @@
         public int coluna { get; set; }
 
         public Posicao(int linha, int coluna) {
-            linha = this.linha;
-            coluna = this.coluna;
+            this.linha = linha;
+            this.coluna = coluna;
         }
 
         public override string ToString() {
